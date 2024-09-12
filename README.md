@@ -9,9 +9,7 @@ This project explores the use of MongoDB to model and query non-relational data 
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Exercise 1: Blog Data Model](#exercise-1-blog-data-model)
-  - [Schema](#schema)
 - [Exercise 2: City Data Analysis](#exercise-2-city-data-analysis)
-  - [Data Import](#data-import)
 
 ## 🚀 Introduction
 
